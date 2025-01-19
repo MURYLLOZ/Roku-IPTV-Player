@@ -1,7 +1,8 @@
-Roku-IPTV-Player
-The Simplest Application for Roku you can use to watch IPTV
+**Roku-IPTV-Player**
 
-Please, feel free to fork and PR. Now it's just a draft
+The Simplest Application for Roku you can use to watch IPTV.
+
+Please, feel free to fork and PR. Now it's just a draft.
 
 Thanks @kane2931 for ideas and updates.
 
